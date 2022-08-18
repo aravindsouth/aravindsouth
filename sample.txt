@@ -1,6 +1,6 @@
 line 1 as in main
 
 
-line 3 as in main
+line 3 changed in branch2
 line 4 as in branch2
 
